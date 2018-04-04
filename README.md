@@ -1,8 +1,8 @@
 # Bank-kata
 
-Resulting code of the session of the meetup on object calisthenics
+Code de la session sur object calisthenics
 
-## Rules
+## Règles
 
 1. One level of indentation per method
 2. Don’t use the ELSE keyword
@@ -14,8 +14,19 @@ Resulting code of the session of the meetup on object calisthenics
 8. No classes with more than two instance variables
 9. No getters/setters/properties
 
-[Slides with details and more examples](https://drive.google.com/open?id=11EG_Ha_qiUA8fUM2TY07Dfj3qUwg16hf)
+[Slides avec des détails et des exemples](https://drive.google.com/open?id=11EG_Ha_qiUA8fUM2TY07Dfj3qUwg16hf)
 
 
-## What to implement
+## Le kata
+
+Implémenter une banque, avec les opérations suivantes :
+- Dépôt
+- Retrait
+- Transfert
+- Etat du compte (Date, montant)
+- Imprimer les opérations du compte
+- Filtrer les opérations du compte par :
+  - date
+  - montant
+  - type d’opération
 
